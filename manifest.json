@@ -32,6 +32,6 @@
         "S_LOAD_TOPO": 3,
         "S_LOGIN": [13,14],
         "S_RESPONSE_GAMESTAT_PONG": "raw",
-        "S_SPAWN_NPC": 11
+        "S_SPAWN_NPC": 12
     }
 }
