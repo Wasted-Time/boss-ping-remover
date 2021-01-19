@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": true,
     "servers": ["https://raw.githubusercontent.com/Mister-Kay/boss-ping-remover/master/"],
-    "supportUrl": "https://github.com/Mister-Kay/boss-ping-remover/issues",
+    "supportUrl": "https://github.com/Wasted-Time/Wasted-Time/issues",
     "name": "boss-ping-remover",
     "author": "Mister-Kay, Tera-Waste",
     "description": "Makes the bosses attacks match up with servers."
